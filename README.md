@@ -11,3 +11,15 @@ O objetivo deste projeto é desenvolver uma aplicação simples de cadastro de a
 - Python 3.13.2
 - Tkinter, SQLite3
 - VSCode Studio, SQLite Studio
+
+
+
+This repository contains the source code of the project developed for the Rapid Application Development in Python course at Universidade Estácio de Sá.
+
+🎯 Objective  
+The goal of this project is to develop a simple student registration application using Python and a graphical user interface with Tkinter.
+
+🛠 Technologies and Tools Used  
+- Python 3.13.2  
+- Tkinter, SQLite3  
+- VSCode Studio, SQLite Studio
